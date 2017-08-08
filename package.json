@@ -1,0 +1,39 @@
+{
+  "_from": "gensync-cb",
+  "_id": "gensync-cb@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-iBjM6NQfVKB9EJJL9TZOul5ZKSg=",
+  "_location": "/gensync-cb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gensync-cb",
+    "name": "gensync-cb",
+    "escapedName": "gensync-cb",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gensync-cb/-/gensync-cb-1.0.0.tgz",
+  "_shasum": "8818cce8d41f54a07d10924bf5364eba5e592928",
+  "_spec": "gensync-cb",
+  "_where": "/home/scott/repos/gensync-cb",
+  "author": {
+    "name": "Scott Larkin"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gensync-cb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
